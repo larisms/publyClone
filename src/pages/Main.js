@@ -3,7 +3,9 @@ import React from "react";
 const Main = () => {
   return (
     <>
-      <p>publy clone</p>
+      <div>
+        <p>publy clone</p>
+      </div>
     </>
   );
 };
