@@ -22,7 +22,7 @@ const Main = () => {
 };
 
 const ListWrap = styled.div`
-  width: 500px;
+  /* width: 500px; */
   height: 500px;
 `;
 

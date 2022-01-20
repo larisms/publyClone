@@ -14,7 +14,7 @@ const Card = () => {
 };
 
 const Wrap = styled.div`
-  width: 33%;
+  /* width: 33%; */
 `;
 
 const Image = styled.div`

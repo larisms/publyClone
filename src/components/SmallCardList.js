@@ -23,8 +23,8 @@ const SmallCardList = () => {
 };
 
 const List = styled.div`
-  display: flex;
-  width: 900px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 `;
 
 export default SmallCardList;
