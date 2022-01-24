@@ -2,11 +2,13 @@ import React from "react";
 import styled from "styled-components";
 
 import CardList from "../components/CardList";
+import Header from "../components/Header";
 import SmallCardList from "../components/SmallCardList";
 
 const Main = () => {
   return (
     <>
+      <Header />
       <div>main banner</div>
       <div>event banner</div>
       <ListWrap>
