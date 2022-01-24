@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Banner from "../components/Banner";
 
 import CardList from "../components/CardList";
 import Header from "../components/Header";
@@ -9,6 +10,7 @@ const Main = () => {
   return (
     <>
       <Header />
+      <Banner />
       <div>main banner</div>
       <div>event banner</div>
       <ListWrap>
